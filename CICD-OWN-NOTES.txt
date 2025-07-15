@@ -1,0 +1,2 @@
+in cmd the command:  git version 
+it gives the current version of the git installed in your system
