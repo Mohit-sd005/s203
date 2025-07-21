@@ -8,3 +8,5 @@ git push -u origin main
 
 my jetkin port is 9090
 in order to know the password goto C:users/maha/.jenkins/administratorpass/secrets
+
+Jenkins uname: Mohit005 pass: Mohit@005
