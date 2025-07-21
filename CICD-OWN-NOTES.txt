@@ -1,2 +1,10 @@
 in cmd the command:  git version 
 it gives the current version of the git installed in your system
+
+git add .   (updates all files in the directory to the local git)
+git remote add origin url_of_your_git
+git push -u origin main
+
+
+my jetkin port is 9090
+in order to know the password goto C:users/maha/.jenkins/administratorpass/secrets
